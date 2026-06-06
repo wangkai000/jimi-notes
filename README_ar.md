@@ -1,4 +1,4 @@
-# Jimi-Notes 基米便签
+# Jimi-Notes
 
 🌐 **语言切换 / Language Switch**
 
@@ -9,6 +9,19 @@
 #### الوصف
 
 Jimi-Notes، الملاحظة الورقية الدافئة على سطح المكتب. تطبيق ملاحظات مجاني وخفيف للغاية. حجم التثبيت فقط ~6MB، استخدام الذاكرة <30MB، ملاحظات مستقلة متعددة النوافذ، ألوان مخصصة، حفظ تلقائي، دون اتصال كامل بدون رفع (غير مفتوح المصدر بعد).
+
+> 🌐 مقدمة متعددة اللغات / Multilingual Introduction
+>
+> - [简体中文](README_zh.md#介绍)
+> - [繁體中文](README_zh_Hant.md#介紹)
+> - [English](README_en.md#Introduction)
+> - [日本語](README_ja.md#紹介)
+> - [Русский](README_ru.md#Описание)
+> - [Français](README_fr.md#Description)
+> - [한국어](README_ko.md#설명)
+> - [Deutsch](README_de.md#Beschreibung)
+> - [Español](README_es.md#Descripción)
+> - [Português](README_pt.md#Descrição)
 
 #### الميزات
 

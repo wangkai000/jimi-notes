@@ -10,6 +10,18 @@
 
 基米便签 Jimi-Notes，桌面上的暖纸小贴。免费、极致轻量的桌面便签应用。安装包仅 ~6MB，运行内存 <30MB，多窗口独立便签、自定义配色、自动保存，纯离线零上传（当前暂未开源）。
 
+> 🌐 多语言介绍 / Multilingual Introduction
+>
+> - [English](README_en.md#介绍)
+> - [日本語](README_ja.md#紹介)
+> - [Русский](README_ru.md#Описание)
+> - [Français](README_fr.md#Description)
+> - [العربية](README_ar.md#الوصف)
+> - [한국어](README_ko.md#설명)
+> - [Deutsch](README_de.md#Beschreibung)
+> - [Español](README_es.md#Descripción)
+> - [Português](README_pt.md#Descrição)
+
 #### 功能特点
 
 - 🪶 **轻量高效** - 安装包仅 ~6MB，运行内存 <30MB

@@ -1,4 +1,4 @@
-# Jimi-Notes 基米便签
+# Jimi-Notes
 
 🌐 **语言切换 / Language Switch**
 
@@ -9,6 +9,19 @@
 #### Beschreibung
 
 Jimi-Notes, der warme Papieraufkleber auf Ihrem Desktop. Kostenlose, ultraleichte Desktop-Notiz-App. Installationspaket nur ~6MB, Speichernutzung <30MB, unabhängige Multi-Fenster-Notizen, benutzerdefinierte Farben, automatisches Speichern, rein Offline ohne Upload (noch nicht Open Source).
+
+> 🌐 Mehrsprachige Einführung / Multilingual Introduction
+>
+> - [简体中文](README_zh.md#介绍)
+> - [繁體中文](README_zh_Hant.md#介紹)
+> - [English](README_en.md#Introduction)
+> - [日本語](README_ja.md#紹介)
+> - [Русский](README_ru.md#Описание)
+> - [Français](README_fr.md#Description)
+> - [العربية](README_ar.md#الوصف)
+> - [한국어](README_ko.md#설명)
+> - [Español](README_es.md#Descripción)
+> - [Português](README_pt.md#Descrição)
 
 #### Funktionen
 

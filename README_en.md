@@ -1,4 +1,4 @@
-# Jimi-Notes 基米便签
+# Jimi-Notes
 
 🌐 **语言切换 / Language Switch**
 
@@ -6,9 +6,22 @@
 
 ---
 
-#### Description
+#### Introduction
 
 Jimi-Notes, warm paper sticker on your desktop. Free, ultra-lightweight desktop sticky note app. Installation package only ~6MB, memory usage <30MB, multi-window independent notes, custom colors, auto-save, pure offline with zero upload (not open source yet).
+
+> 🌐 Multilingual Introduction / 多语言介绍
+>
+> - [简体中文](README_zh.md#介绍)
+> - [繁體中文](README_zh_Hant.md#介紹)
+> - [日本語](README_ja.md#紹介)
+> - [Русский](README_ru.md#Описание)
+> - [Français](README_fr.md#Description)
+> - [العربية](README_ar.md#الوصف)
+> - [한국어](README_ko.md#설명)
+> - [Deutsch](README_de.md#Beschreibung)
+> - [Español](README_es.md#Descripción)
+> - [Português](README_pt.md#Descrição)
 
 #### Features
 

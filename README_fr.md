@@ -1,4 +1,4 @@
-# Jimi-Notes 基米便签
+# Jimi-Notes
 
 🌐 **语言切换 / Language Switch**
 
@@ -9,6 +9,19 @@
 #### Description
 
 Jimi-Notes, le petit papier chaleureux sur votre bureau. Application de notes de bureau gratuite et ultra-légère. Paquet d'installation seulement ~6MB, utilisation mémoire <30MB, notes multi-fenêtres indépendantes, couleurs personnalisées, sauvegarde automatique, pur hors ligne zéro upload (pas encore open source).
+
+> 🌐 Introduction multilingue / Multilingual Introduction
+>
+> - [简体中文](README_zh.md#介绍)
+> - [繁體中文](README_zh_Hant.md#介紹)
+> - [English](README_en.md#Introduction)
+> - [日本語](README_ja.md#紹介)
+> - [Русский](README_ru.md#Описание)
+> - [العربية](README_ar.md#الوصف)
+> - [한국어](README_ko.md#설명)
+> - [Deutsch](README_de.md#Beschreibung)
+> - [Español](README_es.md#Descripción)
+> - [Português](README_pt.md#Descrição)
 
 #### Fonctionnalités
 

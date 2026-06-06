@@ -1,4 +1,4 @@
-# Jimi-Notes 基米便签
+# Jimi-Notes
 
 🌐 **语言切换 / Language Switch**
 
@@ -9,6 +9,19 @@
 #### 설명
 
 Jimi-Notes, 데스크톱 위의 따뜻한 종이 스티커. 무료, 초경량 데스크톱 메모 앱. 설치 패키지 약 6MB, 메모리 사용량 <30MB, 멀티창 독립 메모리, 사용자 정의 색상, 자동 저장, 완전 오프라인 업로드 제로 (현재 오픈 소스 아님).
+
+> 🌐 다국어 소개 / Multilingual Introduction
+>
+> - [简体中文](README_zh.md#介绍)
+> - [繁體中文](README_zh_Hant.md#介紹)
+> - [English](README_en.md#Introduction)
+> - [日本語](README_ja.md#紹介)
+> - [Русский](README_ru.md#Описание)
+> - [Français](README_fr.md#Description)
+> - [العربية](README_ar.md#الوصف)
+> - [Deutsch](README_de.md#Beschreibung)
+> - [Español](README_es.md#Descripción)
+> - [Português](README_pt.md#Descrição)
 
 #### 기능
 
