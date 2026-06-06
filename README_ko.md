@@ -1,4 +1,10 @@
-# Jimi-Notes 지미 노트
+# Jimi-Notes 基米便签
+
+🌐 **语言切换 / Language Switch**
+
+[简体中文](README_zh.md) | [繁體中文](README_zh_Hant.md) | [English](README_en.md) | [日本語](README_ja.md) | [Русский](README_ru.md) | [Français](README_fr.md) | [العربية](README_ar.md) | **한국어** | [Deutsch](README_de.md) | [Español](README_es.md) | [Português](README_pt.md)
+
+---
 
 #### 설명
 
@@ -16,7 +22,3 @@ Jimi-Notes, 데스크톱 위의 따뜻한 종이 스티커. 무료, 초경량 �
 
 - [Gitee 다운로드](https://gitee.com/wangkai000/jimi-notes/releases)
 - [GitHub 다운로드](https://github.com/wangkai000/jimi-notes/releases)
-
-#### 기여
-
-Issue와 Pull Request를 환영합니다!

@@ -1,4 +1,10 @@
-# Jimi-Notes ملاحظات جييمي
+# Jimi-Notes 基米便签
+
+🌐 **语言切换 / Language Switch**
+
+[简体中文](README_zh.md) | [繁體中文](README_zh_Hant.md) | [English](README_en.md) | [日本語](README_ja.md) | [Русский](README_ru.md) | [Français](README_fr.md) | **العربية** | [한국어](README_ko.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Português](README_pt.md)
+
+---
 
 #### الوصف
 
@@ -16,7 +22,3 @@ Jimi-Notes، الملاحظة الورقية الدافئة على سطح الم
 
 - [Gitee التنزيل](https://gitee.com/wangkai000/jimi-notes/releases)
 - [GitHub التنزيل](https://github.com/wangkai000/jimi-notes/releases)
-
-#### المساهمة
-
-المشكلات وطلبات السحب مرحب بها!

@@ -1,5 +1,11 @@
 # Jimi-Notes 基米便簽
 
+🌐 **语言切换 / Language Switch**
+
+[简体中文](README_zh.md) | **繁體中文** | [English](README_en.md) | [日本語](README_ja.md) | [Русский](README_ru.md) | [Français](README_fr.md) | [العربية](README_ar.md) | [한국어](README_ko.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Português](README_pt.md)
+
+---
+
 #### 介紹
 
 基米便簽 Jimi-Notes，桌面上的暖紙小貼。免費、極致輕量的桌面便簽應用。安裝包僅 ~6MB，運行記憶體 <30MB，多視窗獨立便簽、自訂配色、自動儲存，純離線零上傳（當前暫未開源）。
@@ -16,7 +22,3 @@
 
 - [Gitee 下載](https://gitee.com/wangkai000/jimi-notes/releases)
 - [GitHub 下載](https://github.com/wangkai000/jimi-notes/releases)
-
-#### 貢獻
-
-歡迎提交 Issue 和 Pull Request！
