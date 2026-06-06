@@ -12,7 +12,7 @@ Jimi-Notes, 데스크톱 위의 따뜻한 종이 스티커. 무료, 초경량 �
 
 > 🌐 다국어 소개 / Multilingual Introduction
 >
-> - [简体中文](README_zh.md#介绍)
+> - [简体中文](README.md#介绍)
 > - [繁體中文](README_zh_Hant.md#介紹)
 > - [English](README_en.md#Introduction)
 > - [日本語](README_ja.md#紹介)

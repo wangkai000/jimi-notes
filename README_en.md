@@ -12,7 +12,7 @@ Jimi-Notes, warm paper sticker on your desktop. Free, ultra-lightweight desktop 
 
 > 🌐 Multilingual Introduction / 多语言介绍
 >
-> - [简体中文](README_zh.md#介绍)
+> - [简体中文](README.md#介绍)
 > - [繁體中文](README_zh_Hant.md#介紹)
 > - [日本語](README_ja.md#紹介)
 > - [Русский](README_ru.md#Описание)

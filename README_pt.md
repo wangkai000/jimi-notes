@@ -12,7 +12,7 @@ Jimi-Notes, a nota de papel quente na sua área de trabalho. Aplicativo de notas
 
 > 🌐 Introdução multilíngue / Multilingual Introduction
 >
-> - [简体中文](README_zh.md#介绍)
+> - [简体中文](README.md#介绍)
 > - [繁體中文](README_zh_Hant.md#介紹)
 > - [English](README_en.md#Introduction)
 > - [日本語](README_ja.md#紹介)
